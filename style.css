@@ -1,0 +1,19 @@
+.container {
+    margin-top: 30px;
+    width: 100%;
+    height: 100%;
+}
+.buton {
+    background-color:#F96666 ;
+    margin: 0px auto;
+    border: 0px;
+    border-radius: 3px;
+    font-family: Malgun Gothic;
+}
+
+.liste {
+    list-style: none;
+    margin: 0px auto;
+}
+
+.card-color:black;
